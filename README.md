@@ -1,6 +1,5 @@
-# Cryptocurrency Trading Bot with Machine Learning
+# Kaafi basic trading bot
 
-This project implements a basic cryptocurrency trading bot using machine learning to predict market trends. The bot fetches market data, performs feature engineering, trains a Random Forest model, and makes trading decisions based on predictions.
 
 ## Features
 
